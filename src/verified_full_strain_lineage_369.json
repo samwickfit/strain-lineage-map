@@ -1,0 +1,3339 @@
+{
+  "nodes": [
+    {
+      "id": "Blue Dream",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/blue-dream",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blueberry Muffin",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/blueberry-muffin",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Bruce Banner",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/bruce-banner",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Headband",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/headband",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Jack Herer",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/jack-herer",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "MAC 1",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/mac-1",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Wedding Cake",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/wedding-cake",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Animal Mints",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/animal-mintz",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Chemdawg",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/chemdawg",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Cherry OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cherry-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Cherry Pie",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cherry-pie",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Durban Poison",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/durban-poison",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Forbidden Fruit",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/forbidden-fruit",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Gelato 33",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gelato-33",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Garlic Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gmo",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Gorilla Glue 4",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gorilla-glue-4",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Girl Scout Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/girl-scout-cookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Ice Cream Cake",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/ice-cream-cake",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Kush Mints",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/kush-mints",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Maui Wowie",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/maui-wowie",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mendo Breath",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/mendo-breath",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Motor Breath",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/motor-breath",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Purple Punch",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/purple-punch",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Runtz",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/runtz",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Skywalker OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/skywalker-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Slurricane",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/slurricane",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Sundae Driver",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sundae-driver",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Super Silver Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/super-silver-haze",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Tangie",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/tangie",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Tropicana Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/tropicana-cookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "White Widow",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/white-widow",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Zookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/zookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Acapulco Gold",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/acapulco-gold",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Alaskan Thunderfuck",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/alaskan-thunderfk((",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Apple Fritter",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/apple-fritter",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Bettie Page",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/bettie-page",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Bubba Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/bubba-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Do-Si-Dos",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/do-si-dos",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Dutch Treat",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/dutch-treat",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Grandaddy Purple",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/grandaddy-purple",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Grape Ape",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/grape-ape",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Green Crack",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/green-crack",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Hash Plant",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/hash-plant",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Herijuana",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/herijuana",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Kosher Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/kosher-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Lavender Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/lavender-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/lemon-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lifter",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/lifter",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Long Valley Royal Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/long-valley-royal-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Northern Lights",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/northern-lights",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Orange Zkittlez",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/zkittles",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pineapple Express",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/pineapple-express",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "SinMint Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sinmint-cookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Sour Diesel",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/sour-diesel",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Sour Tangie",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/sour-tangie",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Strawberry Cough",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/strawberry-cough",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Triangle Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/triangle-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Zkittlez",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Thin Mint GSC",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Colombian",
+      "group": "Sativa",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Starfighter",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/starfighter",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Strawberry Diesel",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/strawberry-diesel",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Sunset Sherbet",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sunset-sherbet",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Donny Burger",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/donny-burger",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Han Solo Burger",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/han-solo-burger",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Purple Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/purple-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mochi",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/mochi",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Gelato 41",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Sherbet",
+      "group": "Hybrid",
+      "link": "",
+      "farm": ""
+    },
+    {
+      "id": "The Y",
+      "group": "Hybrid",
+      "link": "",
+      "farm": ""
+    },
+    {
+      "id": "Gary Payton",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gary-payton",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Snowman",
+      "group": "Hybrid",
+      "link": "",
+      "farm": ""
+    },
+    {
+      "id": "Cereal Milk",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cereal-milk",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Y-Life",
+      "group": "Hybrid",
+      "link": "",
+      "farm": ""
+    },
+    {
+      "id": "Double Burger",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/double-burger",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Cookies and Cream",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cookies-and-cream",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Animal Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/animal-cookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Fire OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/fire-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Larry OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/larry-og-f8",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "OG Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/og-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Sour Dubb",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sour-dubb",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Purple Thai",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/purple-thai",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Chem\u2019s Sister",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/chem\u2019s-sister",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Cherry Thai",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/cherry-thai",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Chocolate Diesel",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/chocolate-diesel",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Early Resin Berry",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/early-resin-berry",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Face Mints",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/face-mints",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "G13",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/g13",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Gelatti",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gelatti",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Ghost OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/ghost-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "God Bud",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/god-bud",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Harlequin",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/harlequin",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "ICE",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/ice",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Kali Mist",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/kali-mist",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Diesel",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/lemon-diesel",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Nepalese",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/nepalese",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Old Time Moonshine",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/old-time-moonshine",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Original Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/original-haze",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Purple Panty Dropper",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/purple-panty-dropper",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Purple Star",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/purple-star",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Romulan",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/romulan",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Secret Weapon",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/secret-weapon",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Shiva Skunk",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/shiva-skunk",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Skunk Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/skunk-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sour Tsunami",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sour-tsunami",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Suver Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/suver-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "The Wife",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/the-wife",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Triangle Mints",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Trinity",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/trinity",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Afghan Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/afghan-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Afgoo",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/afgoo",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Alien Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/alien-cookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Alien Dawg",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/alien-dawg",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Alien Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/alien-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Alien OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/alien-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Aspen OG",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "C99 x Blueberry",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Candyland",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/candyland",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Charlotte\u2019s Cherries",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/charlotte\u2019s-cherries",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Charlotte\u2019s Web",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/charlotte\u2019s-web",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Dogwalker OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/dogwalker-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Face Off OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/face-off-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Frisian Dew",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/frisian-dew",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "G13 Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/g13",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Grease Monkey",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/grease-monkey",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Harle-Tsu",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/harle-tsu",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "High Octane OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/high-octane-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Jack Frost",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/jack-frost",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Joseph OG",
+      "group": "Hybrid",
+      "link": "",
+      "farm": ""
+    },
+    {
+      "id": "Killer Queen",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/killer-queen",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Lemon Meringue",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/lemon-meringue",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Lemon OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/lemon-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Modified Grapes",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "OG Chem",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/og-chem",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "OGKB",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/ogkb",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Oregon Lemons",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/oregon-lemons",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Oreoz",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/oreoz",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Papaya",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Platinum Animal Cookies",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/platinum-animal-cookies",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Platinum Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/platinum-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Purple Afghan Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/purple-afghan-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Querkle",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/querkle",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Raspberry Cough",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/rasberry-cough",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Red Pop",
+      "group": "Hybrid",
+      "link": "",
+      "farm": ""
+    },
+    {
+      "id": "Space Queen",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/space-queen",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Stardawg",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/stardawg",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Tahoe OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/tahoe-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Tangie Biscotti",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Timewreck",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/timewreck",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Trainwreck",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/trainwreck",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Tropicanna Banana",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Warlock",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/warlock",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Wedding Crasher",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/wedding-crasher",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "White Rhino",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/white-rhino",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "XJ-13",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/xj-13",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Z Animal",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/z-animal",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Acapulco Gold \u00d7 Colombian Gold",
+      "group": "Sativa",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Biscotti \u00d7 Sherbet (backcross)",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Papaya x Runtz",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "GMO Cookies x Red Pop",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "GMO x Grape Pie",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "GMO x Mimosa",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "GMO x Runtz",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "GMO x Sherb",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "GMO x Wedding Crasher",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Purple Urkle x Tangie",
+      "group": "Indica",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Tropicanna x Banana OG",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Unicorn Poop x Red Pop",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Unknown",
+      "group": "Hybrid",
+      "link": "",
+      "farm": "",
+      "isParent": true
+    },
+    {
+      "id": "Tropicana Cookies F1",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/tropicana-cookies-f1",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Alaskan Thunderfk((",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/alaskan-thunderfk",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Gorilla Breath",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/gorilla-breath",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pineapple",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/pineapple",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blue Magoo",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/blue-magoo",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Papaya Punch",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/papaya-punch",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "LSD",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/lsd",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Strawnana",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/strawnana",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Platinum Zkittlez",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/platinum-zkittlez",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Molokai Frost",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/molokai-frost",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mikey Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/mikey-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Black Mamba",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/black-mamba",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "J1",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/j1",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "St. Helens Headband",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/st-helens-headband",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Golden Ticket",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/golden-ticket",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Remedy",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/remedy",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Thai Landrace",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/thai-landrace",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Noxious",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/noxious",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Thai",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/lemon-thai",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "GMO",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gmo",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Dogwalker",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/dogwalker",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Matanuska Mist",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/matanuska-mist",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Orange Bud",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/orange-bud",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Larry OG F8",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/larry-og-f8",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Columbia Gold",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/columbia-gold",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Highland Thai",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/highland-thai",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Matanuska Thunderfuck",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/matanuska-thunderfuck",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Larry",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/lemon-larry",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Early Girl",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/early-girl",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Double Dutch",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/double-dutch",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "ACDC",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/acdc",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Maple Leaf Indica",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/maple-leaf-indica",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sweet and Sour Widow",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/sweet-and-sour-widow",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "SFV OG",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/sfv-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Master Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/master-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Killer Grape",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/killer-grape",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Alien Technology",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/alien-technology",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Moby Dick",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/moby-dick",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Death Star",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/death-star",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Hawaiian Haze",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/hawaiian-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Trap Cherry",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/trap-cherry",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sunset MAC",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/sunset-mac",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Red Congolese",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/red-congolese",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Triangle",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/triangle",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Biscotti",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/biscotti",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Black Garlic",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/black-garlic",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blackberry",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/blackberry",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mt. Hood Magic",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/mt-hood-magic",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Magic Melon",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/magic-melon",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Rogue Valley Wreck",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/rogue-valley-wreck",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Zangria",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/zangria",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "GSC",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/gsc",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Razzleberry",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/razzleberry",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Mazar Sharif",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/mazar-sharif",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Strawberry Fields",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/strawberry-fields",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "OG",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Black Domina",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/black-domina",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Dynasty Diesel",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/dynasty-diesel",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Garlicane",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/garlicane",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Boring Banana",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/boring-banana",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Columbian",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/columbian",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cinderella 99",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/cinderella-99",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Double Dream",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/double-dream",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sour Tangie #9",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/sour-tangie-9",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cherry Wine",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/cherry-wine",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Apollo 13",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/apollo-13",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Peanut Butter Breath",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/peanut-butter-breath",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blueberry Diesel",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/blueberry-diesel",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Thai",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/thai",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Rainbow Belts",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/rainbow-belts",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Amnesia",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/amnesia",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Chernobyl",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/chernobyl",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Afghani Hawaiian",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/afghani-hawaiian",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Gelato #41",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gelato-41",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Oregon Afgoo",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/oregon-afgoo",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Malawi",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/malawi",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Gelato 25",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/gelato-25",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Hash Burger",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/hash-burger",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Burgers and Beers",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/burgers-and-beers",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Banana OG x Purple Punch",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/banana-og-x-purple-punch",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Florida OG",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/florida-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Afghani",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/afghani",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Jealousy",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/jealousy",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pandora's Box",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/pandora-s-box",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "GMO Rootbeer",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/gmo-rootbeer",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Tropic Truffles",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/tropic-truffles",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blue Iguana",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/blue-iguana",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mendo Montage",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/mendo-montage",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Sherbert OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sherbert-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blueberry",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/blueberry",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Marionberry Kush",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/marionberry-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Flo",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/flo",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Albert Walker",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/albert-walker",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Orange Velvet",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/orange-velvet",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Fatso",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/fatso",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Haze",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/haze",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Grape God",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/grape-god",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pinewarp",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/pinewarp",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Tangerine Haze",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/tangerine-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Bubble Gum",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/bubble-gum",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Jack's Cleaner",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/jack-s-cleaner",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cherry Pie Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/cherry-pie-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Platinum OG Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/platinum-og-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Albert Walker OG",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/albert-walker-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Watermelon Kush",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/watermelon-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cherry Blossom",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cherry-blossom",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Nepalese Indica",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/nepalese-indica",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Crystal Gayle",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/crystal-gayle",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Doobiebird Daydream",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/doobiebird-daydream",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Creamsicle OG",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/creamsicle-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Gelato 45",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/gelato-45",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Unicorn Poop",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/unicorn-poop",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Animal Mintz",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/animal-mintz",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Skunk",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/lemon-skunk",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Tree",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/lemon-tree",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cheese",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/cheese",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Grape Gasoline",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/grape-gasoline",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Skunk #1",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/skunk-1",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Huckleberry Kush",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/huckleberry-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "9lb Hammer",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/9lb-hammer",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Jamaican",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/jamaican",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Marionberry",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/marionberry",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Banana Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/banana-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Durban Skunk",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/durban-skunk",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Purple Elephant",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/purple-elephant",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "BC Big Bud",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/bc-big-bud",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Black Cherry Soda",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/black-cherry-soda",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Goji OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/goji-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Tangilope",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/tangilope",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Grape Octane",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/grape-octane",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Melonade",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/melonade",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Evergreen OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/evergreen-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cookies and Cream F2",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/cookies-and-cream-f2",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Greasy Grapes",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/greasy-grapes",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Gas Face",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/gas-face",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Chem Dawg D",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/chem-dawg-d",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Clementine",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/clementine",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Jet Fuel",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/jet-fuel",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Strawberry Gary",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/strawberry-gary",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Puna Budder",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/puna-budder",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Appalachia",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/appalachia",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Apollo 11",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/apollo-11",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "White Fire OG",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/white-fire-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Grateful Breath",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/grateful-breath",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Maple Leaf",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/maple-leaf",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Guava",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/guava",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "MAC",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/mac",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Ice Cream Runtz",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/ice-cream-runtz",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Trop Juice",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/trop-juice",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Platinum Tangie",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/platinum-tangie",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sour Apple",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sour-apple",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Blue Power",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/blue-power",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Mango Sapphire",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/mango-sapphire",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Platinum Cookies",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/platinum-cookies",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Rasberry Cough",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/rasberry-cough",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Reina Madre",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/reina-madre",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pink Runtz",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/pink-runtz",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Grape Pie",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/grape-pie",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Elektra",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/elektra",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Purple Urkle",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/purple-urkle",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Rootbeer",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/rootbeer",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mandala #1",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/mandala-1",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Santa Maria",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/santa-maria",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Red Runtz",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/red-runtz",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lost Coast OG",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/lost-coast-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Vancouver Lights",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/vancouver-lights",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Key Lime Pie",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/key-lime-pie",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cambodian",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/cambodian",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "GDP",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/gdp",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "WiFi OG",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/wifi-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Banana Punch",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/banana-punch",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Glitter Bomb",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/glitter-bomb",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Citrus Sap",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/citrus-sap",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Peyote Purple",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/peyote-purple",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Panama Red",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/panama-red",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Brian Berry Cough",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/brian-berry-cough",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cascade Cream",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cascade-cream",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Northern Berry",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/northern-berry",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Hindu Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/hindu-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Oregon Diesel",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/oregon-diesel",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pink Panties",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/pink-panties",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "OG #18",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/og-18",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Oregon Pineapple",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/oregon-pineapple",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Skunk",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/skunk",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Afghan Skunk",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/afghan-skunk",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sour Space Candy",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/sour-space-candy",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Puget Purple",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/puget-purple",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Jesus OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/jesus-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Banana OG",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/banana-og",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Blackberry Kush",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/blackberry-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Apple Pie",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/apple-pie",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cherry Limeade",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/cherry-limeade",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Cherry Cheesecake",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/cherry-cheesecake",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pineapple Banana Cookies",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/pineapple-banana-cookies",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Amensia Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/amensia-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Petrolia Headstash",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/petrolia-headstash",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "DJ Short Blueberry",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/dj-short-blueberry",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Pine Tar Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/pine-tar-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "The Black",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/the-black",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Purple Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/purple-kush",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Kosher Tangie",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/kosher-tangie",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Santa Marta Colombian Gold",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/santa-marta-colombian-gold",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Lemon Kush",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/lemon-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Portland Sour",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/portland-sour",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Dutch Treat Haze",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/dutch-treat-haze",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Zkittles",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/zkittles",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Eugene Cream",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/eugene-cream",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Hell's OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/hell-s-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Oregon Grape",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/oregon-grape",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Jack The Ripper",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/jack-the-ripper",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Mimosa",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/mimosa",
+      "farm": "Example Farms",
+      "isParent": true
+    },
+    {
+      "id": "Jillybean",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/jillybean",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sin City Kush",
+      "group": "Indica",
+      "link": "https://oregoncc.io/example-farms/sin-city-kush",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Strawberry OG",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/strawberry-og",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Apples and Bananas",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/apples-and-bananas",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Nigerian",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/nigerian",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Sherbert",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/sherbert",
+      "farm": "Example Farms"
+    },
+    {
+      "id": "Strawberry Banana",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/strawberry-banana"
+    },
+    {
+      "id": "Jungle Cake",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/jungle-cake"
+    },
+    {
+      "id": "The Soap",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/the-soap"
+    },
+    {
+      "id": "Gelato",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/gelato"
+    },
+    {
+      "id": "Grapefruit",
+      "group": "Sativa",
+      "link": "https://oregoncc.io/example-farms/grapefruit"
+    },
+    {
+      "id": "White Fire #43",
+      "group": "Hybrid",
+      "link": "https://oregoncc.io/example-farms/white-fire-43"
+    }
+  ],
+  "links": [
+    {
+      "source": "OG Kush",
+      "target": "Girl Scout Cookies"
+    },
+    {
+      "source": "Durban Poison",
+      "target": "Girl Scout Cookies"
+    },
+    {
+      "source": "Alien Cookies",
+      "target": "MAC 1"
+    },
+    {
+      "source": "Colombian",
+      "target": "MAC 1"
+    },
+    {
+      "source": "Starfighter",
+      "target": "MAC 1"
+    },
+    {
+      "source": "OG Kush",
+      "target": "Bruce Banner"
+    },
+    {
+      "source": "Strawberry Diesel",
+      "target": "Bruce Banner"
+    },
+    {
+      "source": "Blueberry",
+      "target": "Blue Dream"
+    },
+    {
+      "source": "Haze",
+      "target": "Blue Dream"
+    },
+    {
+      "source": "Cherry Pie",
+      "target": "Wedding Cake"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Wedding Cake"
+    },
+    {
+      "source": "OG Kush",
+      "target": "Headband"
+    },
+    {
+      "source": "Sour Diesel",
+      "target": "Headband"
+    },
+    {
+      "source": "Unknown",
+      "target": "Donny Burger"
+    },
+    {
+      "source": "Unknown",
+      "target": "Han Solo Burger"
+    },
+    {
+      "source": "Purple Thai",
+      "target": "Purple Haze"
+    },
+    {
+      "source": "Haze",
+      "target": "Purple Haze"
+    },
+    {
+      "source": "Do-Si-Dos",
+      "target": "Slurricane"
+    },
+    {
+      "source": "Purple Punch",
+      "target": "Slurricane"
+    },
+    {
+      "source": "Animal Cookies",
+      "target": "Zookies"
+    },
+    {
+      "source": "Gorilla Glue 4",
+      "target": "Zookies"
+    },
+    {
+      "source": "Thin Mint GSC",
+      "target": "Mochi"
+    },
+    {
+      "source": "Sunset Sherbet",
+      "target": "Mochi"
+    },
+    {
+      "source": "Do-Si-Dos",
+      "target": "Peanut Butter Breath"
+    },
+    {
+      "source": "Mendo Breath",
+      "target": "Peanut Butter Breath"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Animal Cookies"
+    },
+    {
+      "source": "Fire OG",
+      "target": "Animal Cookies"
+    },
+    {
+      "source": "Clementine",
+      "target": "Mimosa"
+    },
+    {
+      "source": "Purple Punch",
+      "target": "Mimosa"
+    },
+    {
+      "source": "Gelato 41",
+      "target": "Jealousy"
+    },
+    {
+      "source": "Sunset Sherbet",
+      "target": "Jealousy"
+    },
+    {
+      "source": "The Y",
+      "target": "Gary Payton"
+    },
+    {
+      "source": "Snowman",
+      "target": "Gary Payton"
+    },
+    {
+      "source": "Snowman",
+      "target": "Cereal Milk"
+    },
+    {
+      "source": "Y-Life",
+      "target": "Cereal Milk"
+    },
+    {
+      "source": "Donny Burger",
+      "target": "Double Burger"
+    },
+    {
+      "source": "Han Solo Burger",
+      "target": "Double Burger"
+    },
+    {
+      "source": "Starfighter",
+      "target": "Cookies and Cream"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Cookies and Cream"
+    },
+    {
+      "source": "Zkittlez",
+      "target": "Runtz"
+    },
+    {
+      "source": "Gelato",
+      "target": "Runtz"
+    },
+    {
+      "source": "Grape Ape",
+      "target": "Zkittlez"
+    },
+    {
+      "source": "Grapefruit",
+      "target": "Zkittlez"
+    },
+    {
+      "source": "Chemdawg",
+      "target": "Garlic Cookies"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Garlic Cookies"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Biscotti"
+    },
+    {
+      "source": "Unknown",
+      "target": "Biscotti \u00d7 Sherbet (backcross)"
+    },
+    {
+      "source": "Animal Cookies",
+      "target": "Animal Mints"
+    },
+    {
+      "source": "SinMint Cookies",
+      "target": "Animal Mints"
+    },
+    {
+      "source": "Blue Power",
+      "target": "Apples and Bananas"
+    },
+    {
+      "source": "Gelatti",
+      "target": "Apples and Bananas"
+    },
+    {
+      "source": "Banana OG",
+      "target": "Banana Punch"
+    },
+    {
+      "source": "Purple Punch",
+      "target": "Banana Punch"
+    },
+    {
+      "source": "Strawberry Banana",
+      "target": "Strawnana"
+    },
+    {
+      "source": "Banana Kush",
+      "target": "Strawnana"
+    },
+    {
+      "source": "White Fire #43",
+      "target": "Jungle Cake"
+    },
+    {
+      "source": "Wedding Cake",
+      "target": "Jungle Cake"
+    },
+    {
+      "source": "Y-Life",
+      "target": "The Soap"
+    },
+    {
+      "source": "Kush Mints",
+      "target": "The Soap"
+    },
+    {
+      "source": "Razzleberry",
+      "target": "Blueberry Muffin"
+    },
+    {
+      "source": "Purple Panty Dropper",
+      "target": "Blueberry Muffin"
+    },
+    {
+      "source": "Thai",
+      "target": "Chemdawg"
+    },
+    {
+      "source": "Nepalese",
+      "target": "Chemdawg"
+    },
+    {
+      "source": "Cherry Thai",
+      "target": "Cherry OG"
+    },
+    {
+      "source": "Afghani",
+      "target": "Cherry OG"
+    },
+    {
+      "source": "Lost Coast OG",
+      "target": "Cherry OG"
+    },
+    {
+      "source": "Durban Poison",
+      "target": "Cherry Pie"
+    },
+    {
+      "source": "Grandaddy Purple",
+      "target": "Cherry Pie"
+    },
+    {
+      "source": "Cherry Pie",
+      "target": "Forbidden Fruit"
+    },
+    {
+      "source": "Tangie",
+      "target": "Forbidden Fruit"
+    },
+    {
+      "source": "Sunset Sherbet",
+      "target": "Gelato 33"
+    },
+    {
+      "source": "Thin Mint GSC",
+      "target": "Gelato 33"
+    },
+    {
+      "source": "Chem\u2019s Sister",
+      "target": "Gorilla Glue 4"
+    },
+    {
+      "source": "Sour Dubb",
+      "target": "Gorilla Glue 4"
+    },
+    {
+      "source": "Chocolate Diesel",
+      "target": "Gorilla Glue 4"
+    },
+    {
+      "source": "Wedding Cake",
+      "target": "Ice Cream Cake"
+    },
+    {
+      "source": "Gelato 33",
+      "target": "Ice Cream Cake"
+    },
+    {
+      "source": "Bubba Kush",
+      "target": "Kush Mints"
+    },
+    {
+      "source": "Animal Mints",
+      "target": "Kush Mints"
+    },
+    {
+      "source": "Chem Dawg D",
+      "target": "Motor Breath"
+    },
+    {
+      "source": "SFV OG",
+      "target": "Motor Breath"
+    },
+    {
+      "source": "Larry OG",
+      "target": "Purple Punch"
+    },
+    {
+      "source": "Grandaddy Purple",
+      "target": "Purple Punch"
+    },
+    {
+      "source": "Blueberry",
+      "target": "Skywalker OG"
+    },
+    {
+      "source": "OG Kush",
+      "target": "Skywalker OG"
+    },
+    {
+      "source": "Skunk #1",
+      "target": "Super Silver Haze"
+    },
+    {
+      "source": "Northern Lights",
+      "target": "Super Silver Haze"
+    },
+    {
+      "source": "Haze",
+      "target": "Super Silver Haze"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Tropicana Cookies"
+    },
+    {
+      "source": "Tangie",
+      "target": "Tropicana Cookies"
+    },
+    {
+      "source": "Chemdawg",
+      "target": "Sour Diesel"
+    },
+    {
+      "source": "Skunk #1",
+      "target": "Sour Diesel"
+    },
+    {
+      "source": "Sour Diesel",
+      "target": "Sour Tangie"
+    },
+    {
+      "source": "Tangie",
+      "target": "Sour Tangie"
+    },
+    {
+      "source": "Animal Mints",
+      "target": "Triangle Mints"
+    },
+    {
+      "source": "Triangle Kush",
+      "target": "Triangle Mints"
+    },
+    {
+      "source": "Chemdawg",
+      "target": "OG Kush"
+    },
+    {
+      "source": "Hindu Kush",
+      "target": "OG Kush"
+    },
+    {
+      "source": "Unknown",
+      "target": "Bubba Kush"
+    },
+    {
+      "source": "Unknown",
+      "target": "Maui Wowie"
+    },
+    {
+      "source": "Unknown",
+      "target": "Durban Poison"
+    },
+    {
+      "source": "Unknown",
+      "target": "Acapulco Gold"
+    },
+    {
+      "source": "Unknown",
+      "target": "Northern Lights"
+    },
+    {
+      "source": "Unknown",
+      "target": "White Widow"
+    },
+    {
+      "source": "OG Kush",
+      "target": "Kosher Kush"
+    },
+    {
+      "source": "Unknown",
+      "target": "Kosher Kush"
+    },
+    {
+      "source": "OGKB",
+      "target": "Mendo Breath"
+    },
+    {
+      "source": "Mendo Montage",
+      "target": "Mendo Breath"
+    },
+    {
+      "source": "Chemdawg",
+      "target": "Dogwalker OG"
+    },
+    {
+      "source": "Albert Walker",
+      "target": "Dogwalker OG"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "Do-Si-Dos"
+    },
+    {
+      "source": "Face Off OG",
+      "target": "Do-Si-Dos"
+    },
+    {
+      "source": "OG Kush",
+      "target": "Fire OG"
+    },
+    {
+      "source": "SFV OG",
+      "target": "Fire OG"
+    },
+    {
+      "source": "Grapefruit",
+      "target": "Grape God"
+    },
+    {
+      "source": "God Bud",
+      "target": "Grape God"
+    },
+    {
+      "source": "Jack Herer",
+      "target": "Jack Frost"
+    },
+    {
+      "source": "Northern Lights",
+      "target": "Jack Frost"
+    },
+    {
+      "source": "White Widow",
+      "target": "Jack Frost"
+    },
+    {
+      "source": "Purple Kush",
+      "target": "Long Valley Royal Kush"
+    },
+    {
+      "source": "SFV OG",
+      "target": "Long Valley Royal Kush"
+    },
+    {
+      "source": "White Widow",
+      "target": "Moby Dick"
+    },
+    {
+      "source": "Haze",
+      "target": "Moby Dick"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "Modified Grapes"
+    },
+    {
+      "source": "Purple Punch",
+      "target": "Modified Grapes"
+    },
+    {
+      "source": "Lemon Diesel",
+      "target": "Oregon Lemons"
+    },
+    {
+      "source": "Face Off OG",
+      "target": "Oregon Lemons"
+    },
+    {
+      "source": "Cookies and Cream",
+      "target": "Oreoz"
+    },
+    {
+      "source": "Secret Weapon",
+      "target": "Oreoz"
+    },
+    {
+      "source": "Animal Cookies",
+      "target": "Platinum Animal Cookies"
+    },
+    {
+      "source": "Platinum Kush",
+      "target": "Platinum Animal Cookies"
+    },
+    {
+      "source": "Hindu Kush",
+      "target": "Purple Kush"
+    },
+    {
+      "source": "Afghani",
+      "target": "Purple Kush"
+    },
+    {
+      "source": "Purple Urkle",
+      "target": "Purple Afghan Kush"
+    },
+    {
+      "source": "Afghani",
+      "target": "Purple Afghan Kush"
+    },
+    {
+      "source": "Purple Urkle",
+      "target": "Querkle"
+    },
+    {
+      "source": "Space Queen",
+      "target": "Querkle"
+    },
+    {
+      "source": "Cambodian",
+      "target": "Raspberry Cough"
+    },
+    {
+      "source": "ICE",
+      "target": "Raspberry Cough"
+    },
+    {
+      "source": "Northern Lights",
+      "target": "Shiva Skunk"
+    },
+    {
+      "source": "Skunk #1",
+      "target": "Shiva Skunk"
+    },
+    {
+      "source": "Girl Scout Cookies",
+      "target": "SinMint Cookies"
+    },
+    {
+      "source": "Blue Power",
+      "target": "SinMint Cookies"
+    },
+    {
+      "source": "Sour Diesel",
+      "target": "Sour Space Candy"
+    },
+    {
+      "source": "Early Resin Berry",
+      "target": "Sour Space Candy"
+    },
+    {
+      "source": "Unknown",
+      "target": "Sunset MAC"
+    },
+    {
+      "source": "MAC 1",
+      "target": "Sunset MAC"
+    },
+    {
+      "source": "White Widow",
+      "target": "Sweet and Sour Widow"
+    },
+    {
+      "source": "Sour Diesel",
+      "target": "Sweet and Sour Widow"
+    },
+    {
+      "source": "Wedding Cake",
+      "target": "Wedding Crasher"
+    },
+    {
+      "source": "Purple Punch",
+      "target": "Wedding Crasher"
+    },
+    {
+      "source": "White Widow",
+      "target": "White Rhino"
+    },
+    {
+      "source": "Afghani",
+      "target": "White Rhino"
+    },
+    {
+      "source": "Jack Herer",
+      "target": "XJ-13"
+    },
+    {
+      "source": "G13 Haze",
+      "target": "XJ-13"
+    },
+    {
+      "source": "Zkittlez",
+      "target": "Z Animal"
+    },
+    {
+      "source": "Animal Cookies",
+      "target": "Z Animal"
+    },
+    {
+      "source": "Acapulco Gold",
+      "target": "Acapulco Gold \u00d7 Colombian Gold"
+    },
+    {
+      "source": "Colombian",
+      "target": "Acapulco Gold \u00d7 Colombian Gold"
+    },
+    {
+      "source": "Biscotti",
+      "target": "Biscotti \u00d7 Sherbet (backcross)"
+    },
+    {
+      "source": "Sunset Sherbet",
+      "target": "Biscotti \u00d7 Sherbet (backcross)"
+    },
+    {
+      "source": "Papaya",
+      "target": "Papaya x Runtz"
+    },
+    {
+      "source": "Runtz",
+      "target": "Papaya x Runtz"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "GMO Cookies x Red Pop"
+    },
+    {
+      "source": "Red Pop",
+      "target": "GMO Cookies x Red Pop"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "GMO x Grape Pie"
+    },
+    {
+      "source": "Grape Pie",
+      "target": "GMO x Grape Pie"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "GMO x Mimosa"
+    },
+    {
+      "source": "Mimosa",
+      "target": "GMO x Mimosa"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "GMO x Runtz"
+    },
+    {
+      "source": "Runtz",
+      "target": "GMO x Runtz"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "GMO x Sherb"
+    },
+    {
+      "source": "Sunset Sherbet",
+      "target": "GMO x Sherb"
+    },
+    {
+      "source": "Garlic Cookies",
+      "target": "GMO x Wedding Crasher"
+    },
+    {
+      "source": "Wedding Crasher",
+      "target": "GMO x Wedding Crasher"
+    },
+    {
+      "source": "Purple Urkle",
+      "target": "Purple Urkle x Tangie"
+    },
+    {
+      "source": "Tangie",
+      "target": "Purple Urkle x Tangie"
+    },
+    {
+      "source": "Tropicana Cookies",
+      "target": "Tropicanna x Banana OG"
+    },
+    {
+      "source": "Banana OG",
+      "target": "Tropicanna x Banana OG"
+    },
+    {
+      "source": "Unicorn Poop",
+      "target": "Unicorn Poop x Red Pop"
+    },
+    {
+      "source": "Red Pop",
+      "target": "Unicorn Poop x Red Pop"
+    },
+    {
+      "source": "Unknown",
+      "target": "Afghan Kush"
+    },
+    {
+      "source": "Unknown",
+      "target": "Alaskan Thunderfuck"
+    },
+    {
+      "source": "Unknown",
+      "target": "Bettie Page"
+    },
+    {
+      "source": "Unknown",
+      "target": "Herijuana"
+    },
+    {
+      "source": "Unknown",
+      "target": "Lavender Kush"
+    },
+    {
+      "source": "Unknown",
+      "target": "Lemon Haze"
+    },
+    {
+      "source": "Unknown",
+      "target": "Orange Zkittlez"
+    },
+    {
+      "source": "Unknown",
+      "target": "Pineapple Express"
+    },
+    {
+      "source": "Unknown",
+      "target": "Strawberry Cough"
+    },
+    {
+      "source": "Unknown",
+      "target": "Triangle Kush"
+    },
+    {
+      "source": "Unknown",
+      "target": "Afgoo"
+    },
+    {
+      "source": "Unknown",
+      "target": "Face Mints"
+    },
+    {
+      "source": "Unknown",
+      "target": "High Octane OG"
+    },
+    {
+      "source": "Unknown",
+      "target": "Joseph OG"
+    },
+    {
+      "source": "Unknown",
+      "target": "Old Time Moonshine"
+    },
+    {
+      "source": "Unknown",
+      "target": "Romulan"
+    },
+    {
+      "source": "Unknown",
+      "target": "Skunk Haze"
+    },
+    {
+      "source": "Unknown",
+      "target": "Suver Haze"
+    },
+    {
+      "source": "Unknown",
+      "target": "The Wife"
+    },
+    {
+      "source": "Unknown",
+      "target": "Trinity"
+    },
+    {
+      "source": "Unknown",
+      "target": "Timewreck"
+    },
+    {
+      "source": "Triangle Kush",
+      "target": "Wedding Cake",
+      "type": "parent"
+    },
+    {
+      "source": "Animal Mints",
+      "target": "Wedding Cake",
+      "type": "parent"
+    },
+    {
+      "source": "Cherry Pie",
+      "target": "Y-Life",
+      "type": "parent"
+    },
+    {
+      "source": "Banana Kush",
+      "target": "Strawberry Banana",
+      "type": "parent"
+    },
+    {
+      "source": "Fire OG",
+      "target": "White Fire #43",
+      "type": "parent"
+    },
+    {
+      "source": "Animal Mints",
+      "target": "The Soap",
+      "type": "parent"
+    },
+    {
+      "source": "Bubba Kush",
+      "target": "The Soap",
+      "type": "parent"
+    }
+  ]
+}
